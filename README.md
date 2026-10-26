@@ -1,2 +1,5 @@
-# control-versiones
-Práctica de control de versiones con Git y GitHub, utilizando ramas, commits y cambios en archivos.
+# Control de versiones
+
+Proyecto de práctica para aprender Git y GitHub.
+
+Autor: Carlos Nader
