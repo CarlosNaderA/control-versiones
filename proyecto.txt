@@ -1,0 +1,2 @@
+Este archivo fue creado para practicar el uso de ramas en Git.
+Actividad: Control de versiones.
